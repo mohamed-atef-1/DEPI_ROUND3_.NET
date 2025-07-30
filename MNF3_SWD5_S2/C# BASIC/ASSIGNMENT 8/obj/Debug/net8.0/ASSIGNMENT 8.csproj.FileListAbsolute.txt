@@ -1,0 +1,42 @@
+D:\visual stodio C#\ASSIGNMENTS\C# BASICS\ASSIGNMENT 8\bin\Debug\net8.0\ASSIGNMENT 8.exe
+D:\visual stodio C#\ASSIGNMENTS\C# BASICS\ASSIGNMENT 8\bin\Debug\net8.0\ASSIGNMENT 8.deps.json
+D:\visual stodio C#\ASSIGNMENTS\C# BASICS\ASSIGNMENT 8\bin\Debug\net8.0\ASSIGNMENT 8.runtimeconfig.json
+D:\visual stodio C#\ASSIGNMENTS\C# BASICS\ASSIGNMENT 8\bin\Debug\net8.0\ASSIGNMENT 8.dll
+D:\visual stodio C#\ASSIGNMENTS\C# BASICS\ASSIGNMENT 8\bin\Debug\net8.0\ASSIGNMENT 8.pdb
+D:\visual stodio C#\ASSIGNMENTS\C# BASICS\ASSIGNMENT 8\obj\Debug\net8.0\ASSIGNMENT 8.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual stodio C#\ASSIGNMENTS\C# BASICS\ASSIGNMENT 8\obj\Debug\net8.0\ASSIGNMENT 8.AssemblyInfoInputs.cache
+D:\visual stodio C#\ASSIGNMENTS\C# BASICS\ASSIGNMENT 8\obj\Debug\net8.0\ASSIGNMENT 8.AssemblyInfo.cs
+D:\visual stodio C#\ASSIGNMENTS\C# BASICS\ASSIGNMENT 8\obj\Debug\net8.0\ASSIGNMENT 8.csproj.CoreCompileInputs.cache
+D:\visual stodio C#\ASSIGNMENTS\C# BASICS\ASSIGNMENT 8\obj\Debug\net8.0\ASSIGNMENT 8.dll
+D:\visual stodio C#\ASSIGNMENTS\C# BASICS\ASSIGNMENT 8\obj\Debug\net8.0\refint\ASSIGNMENT 8.dll
+D:\visual stodio C#\ASSIGNMENTS\C# BASICS\ASSIGNMENT 8\obj\Debug\net8.0\ASSIGNMENT 8.pdb
+D:\visual stodio C#\ASSIGNMENTS\C# BASICS\ASSIGNMENT 8\obj\Debug\net8.0\ASSIGNMENT 8.genruntimeconfig.cache
+D:\visual stodio C#\ASSIGNMENTS\C# BASICS\ASSIGNMENT 8\obj\Debug\net8.0\ref\ASSIGNMENT 8.dll
+D:\OOP C# ASSIGNMENTS (depi)\ASSIGNMENTS\C# BASICS\ASSIGNMENT 8\bin\Debug\net8.0\ASSIGNMENT 8.exe
+D:\OOP C# ASSIGNMENTS (depi)\ASSIGNMENTS\C# BASICS\ASSIGNMENT 8\bin\Debug\net8.0\ASSIGNMENT 8.deps.json
+D:\OOP C# ASSIGNMENTS (depi)\ASSIGNMENTS\C# BASICS\ASSIGNMENT 8\bin\Debug\net8.0\ASSIGNMENT 8.runtimeconfig.json
+D:\OOP C# ASSIGNMENTS (depi)\ASSIGNMENTS\C# BASICS\ASSIGNMENT 8\bin\Debug\net8.0\ASSIGNMENT 8.dll
+D:\OOP C# ASSIGNMENTS (depi)\ASSIGNMENTS\C# BASICS\ASSIGNMENT 8\bin\Debug\net8.0\ASSIGNMENT 8.pdb
+D:\OOP C# ASSIGNMENTS (depi)\ASSIGNMENTS\C# BASICS\ASSIGNMENT 8\obj\Debug\net8.0\ASSIGNMENT 8.GeneratedMSBuildEditorConfig.editorconfig
+D:\OOP C# ASSIGNMENTS (depi)\ASSIGNMENTS\C# BASICS\ASSIGNMENT 8\obj\Debug\net8.0\ASSIGNMENT 8.AssemblyInfoInputs.cache
+D:\OOP C# ASSIGNMENTS (depi)\ASSIGNMENTS\C# BASICS\ASSIGNMENT 8\obj\Debug\net8.0\ASSIGNMENT 8.AssemblyInfo.cs
+D:\OOP C# ASSIGNMENTS (depi)\ASSIGNMENTS\C# BASICS\ASSIGNMENT 8\obj\Debug\net8.0\ASSIGNMENT 8.csproj.CoreCompileInputs.cache
+D:\OOP C# ASSIGNMENTS (depi)\ASSIGNMENTS\C# BASICS\ASSIGNMENT 8\obj\Debug\net8.0\ASSIGNMENT 8.dll
+D:\OOP C# ASSIGNMENTS (depi)\ASSIGNMENTS\C# BASICS\ASSIGNMENT 8\obj\Debug\net8.0\refint\ASSIGNMENT 8.dll
+D:\OOP C# ASSIGNMENTS (depi)\ASSIGNMENTS\C# BASICS\ASSIGNMENT 8\obj\Debug\net8.0\ASSIGNMENT 8.pdb
+D:\OOP C# ASSIGNMENTS (depi)\ASSIGNMENTS\C# BASICS\ASSIGNMENT 8\obj\Debug\net8.0\ASSIGNMENT 8.genruntimeconfig.cache
+D:\OOP C# ASSIGNMENTS (depi)\ASSIGNMENTS\C# BASICS\ASSIGNMENT 8\obj\Debug\net8.0\ref\ASSIGNMENT 8.dll
+C:\Users\dell\Desktop\MNF3_SWD5_S2\C# BASIC\ASSIGNMENT 8\bin\Debug\net8.0\ASSIGNMENT 8.exe
+C:\Users\dell\Desktop\MNF3_SWD5_S2\C# BASIC\ASSIGNMENT 8\bin\Debug\net8.0\ASSIGNMENT 8.deps.json
+C:\Users\dell\Desktop\MNF3_SWD5_S2\C# BASIC\ASSIGNMENT 8\bin\Debug\net8.0\ASSIGNMENT 8.runtimeconfig.json
+C:\Users\dell\Desktop\MNF3_SWD5_S2\C# BASIC\ASSIGNMENT 8\bin\Debug\net8.0\ASSIGNMENT 8.dll
+C:\Users\dell\Desktop\MNF3_SWD5_S2\C# BASIC\ASSIGNMENT 8\bin\Debug\net8.0\ASSIGNMENT 8.pdb
+C:\Users\dell\Desktop\MNF3_SWD5_S2\C# BASIC\ASSIGNMENT 8\obj\Debug\net8.0\ASSIGNMENT 8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\Desktop\MNF3_SWD5_S2\C# BASIC\ASSIGNMENT 8\obj\Debug\net8.0\ASSIGNMENT 8.AssemblyInfoInputs.cache
+C:\Users\dell\Desktop\MNF3_SWD5_S2\C# BASIC\ASSIGNMENT 8\obj\Debug\net8.0\ASSIGNMENT 8.AssemblyInfo.cs
+C:\Users\dell\Desktop\MNF3_SWD5_S2\C# BASIC\ASSIGNMENT 8\obj\Debug\net8.0\ASSIGNMENT 8.csproj.CoreCompileInputs.cache
+C:\Users\dell\Desktop\MNF3_SWD5_S2\C# BASIC\ASSIGNMENT 8\obj\Debug\net8.0\ASSIGNMENT 8.dll
+C:\Users\dell\Desktop\MNF3_SWD5_S2\C# BASIC\ASSIGNMENT 8\obj\Debug\net8.0\refint\ASSIGNMENT 8.dll
+C:\Users\dell\Desktop\MNF3_SWD5_S2\C# BASIC\ASSIGNMENT 8\obj\Debug\net8.0\ASSIGNMENT 8.pdb
+C:\Users\dell\Desktop\MNF3_SWD5_S2\C# BASIC\ASSIGNMENT 8\obj\Debug\net8.0\ASSIGNMENT 8.genruntimeconfig.cache
+C:\Users\dell\Desktop\MNF3_SWD5_S2\C# BASIC\ASSIGNMENT 8\obj\Debug\net8.0\ref\ASSIGNMENT 8.dll
