@@ -1,0 +1,14 @@
+D:\C# ASSIGNMENTS (depi)\ASSIGNMENTS\study\tst\CalculatorExtensionApp\bin\Debug\net9.0\CalculatorExtensionApp.exe
+D:\C# ASSIGNMENTS (depi)\ASSIGNMENTS\study\tst\CalculatorExtensionApp\bin\Debug\net9.0\CalculatorExtensionApp.deps.json
+D:\C# ASSIGNMENTS (depi)\ASSIGNMENTS\study\tst\CalculatorExtensionApp\bin\Debug\net9.0\CalculatorExtensionApp.runtimeconfig.json
+D:\C# ASSIGNMENTS (depi)\ASSIGNMENTS\study\tst\CalculatorExtensionApp\bin\Debug\net9.0\CalculatorExtensionApp.dll
+D:\C# ASSIGNMENTS (depi)\ASSIGNMENTS\study\tst\CalculatorExtensionApp\bin\Debug\net9.0\CalculatorExtensionApp.pdb
+D:\C# ASSIGNMENTS (depi)\ASSIGNMENTS\study\tst\CalculatorExtensionApp\obj\Debug\net9.0\CalculatorExtensionApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# ASSIGNMENTS (depi)\ASSIGNMENTS\study\tst\CalculatorExtensionApp\obj\Debug\net9.0\CalculatorExtensionApp.AssemblyInfoInputs.cache
+D:\C# ASSIGNMENTS (depi)\ASSIGNMENTS\study\tst\CalculatorExtensionApp\obj\Debug\net9.0\CalculatorExtensionApp.AssemblyInfo.cs
+D:\C# ASSIGNMENTS (depi)\ASSIGNMENTS\study\tst\CalculatorExtensionApp\obj\Debug\net9.0\CalculatorExtensionApp.csproj.CoreCompileInputs.cache
+D:\C# ASSIGNMENTS (depi)\ASSIGNMENTS\study\tst\CalculatorExtensionApp\obj\Debug\net9.0\CalculatorExtensionApp.dll
+D:\C# ASSIGNMENTS (depi)\ASSIGNMENTS\study\tst\CalculatorExtensionApp\obj\Debug\net9.0\refint\CalculatorExtensionApp.dll
+D:\C# ASSIGNMENTS (depi)\ASSIGNMENTS\study\tst\CalculatorExtensionApp\obj\Debug\net9.0\CalculatorExtensionApp.pdb
+D:\C# ASSIGNMENTS (depi)\ASSIGNMENTS\study\tst\CalculatorExtensionApp\obj\Debug\net9.0\CalculatorExtensionApp.genruntimeconfig.cache
+D:\C# ASSIGNMENTS (depi)\ASSIGNMENTS\study\tst\CalculatorExtensionApp\obj\Debug\net9.0\ref\CalculatorExtensionApp.dll
